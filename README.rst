@@ -11,6 +11,9 @@
 ----------------------------------
 
     pip install poetry
+    
     poetry install
+    
     poetry shell
+    
     uvicorn main:app --reload
