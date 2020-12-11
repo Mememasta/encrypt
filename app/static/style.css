@@ -1,0 +1,28 @@
+div .nav_menu {
+    margin-bottom: 5%;
+}
+
+.error {
+    color: red;
+}
+
+#resp_des_encrypt {
+    display: none;
+}
+
+#resp_des_decrypt {
+    display: none;
+}
+
+#firstlab {
+    max-width: 100%;
+    width: 100%;
+}
+
+#resp_wgnr_encrypt {
+    display: none;
+}
+
+#resp_wgnr_decrypt {
+    display: none;
+}
